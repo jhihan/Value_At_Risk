@@ -1,5 +1,5 @@
 # Value_At_Risk
-This code is designed to evaluate Value at Risk (VAR)with binomial backtesting for Stock Portfolio. 
+This project is developed to evaluate Value at Risk (VAR) with binomial backtesting for Stock Portfolio. This code is constructed in the end of 2017 in order to practice C++ and financial engineering skills. Further improvement will be made soon.
 # Getting Started
 ## Environment
 The code is run in the Visual C++ 17 environment.
