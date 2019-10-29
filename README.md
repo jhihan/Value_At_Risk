@@ -14,7 +14,5 @@ The calsses and functions used in VaR.cpp
 The functions for reading adn writting the vector from/to a file.
 ### stock.txt
 The historical data of stock portfolio. Each coloumn means different stock and each row means the value of different days.
-# Value at Risk Method:
-historical simulation.
-Variance-covariance.
-Monte-Carlo simulation.
+# usage:
+This program is used to do the risk management calculation, which including VaR and expected shortfall. In the beginning, the historical stock prices data must be prepared in the file stock.txt. When running the program, the covariance matrix of the historical stock price will be calculated first. And then different mwthods -- historical simulation, variance-covariance method, and Monte Carlo simulation-- will be performed. In the end, binomial backtesting is used to test the VaR models.
