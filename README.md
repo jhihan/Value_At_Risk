@@ -3,6 +3,8 @@ This project is developed to evaluate Value at Risk (VAR) with binomial backtest
 # Getting Started
 ## Environment
 The code is run in the Visual C++ 17 environment.
+## Installing
+Boost and Eigen library
 ## files
 ### VaR.cpp: 
 Main file
@@ -12,3 +14,7 @@ The calsses and functions used in VaR.cpp
 The functions for reading adn writting the vector from/to a file.
 ### stock.txt
 The historical data of stock portfolio. Each coloumn means different stock and each row means the value of different days.
+# Value at Risk Method:
+historical simulation.
+Variance-covariance.
+Monte-Carlo simulation.
